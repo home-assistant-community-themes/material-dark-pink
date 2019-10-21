@@ -1,7 +1,7 @@
 ---
 
 yaml-files:
-  - "themes/template.yaml"
+  - "themes/material_dark_pink.yaml"
 
 rules:
   braces:
