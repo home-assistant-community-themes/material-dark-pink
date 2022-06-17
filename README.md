@@ -1,7 +1,7 @@
 # Material Dark Pink Theme
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/material-dark-pink.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/material-dark-pink)
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
 
 > The Material Dark Pink Theme by GreenTurtwig
 
